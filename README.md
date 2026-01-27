@@ -1,1 +1,1 @@
-# Capgemini-Training-2026
+# Training-Assignment-2026
